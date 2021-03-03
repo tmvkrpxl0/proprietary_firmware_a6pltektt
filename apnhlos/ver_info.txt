@@ -1,0 +1,22 @@
+{
+    "Image_Build_IDs": {
+        "adsp": "ADSP.8976.2.8.1-00084-00000-1", 
+        "apps": "LA.UM.6.6.r1-07400-89xx.0-1", 
+        "boot": "BOOT.BF.3.3.c6-00003-M8917LAAAANAZB-1", 
+        "common": "SDM450.LA.3.0.1.c2-00018-STD.PROD-1", 
+        "cpe": "CPE.TSF.1.0-00035-W9335AAAAAAAZQ-1", 
+        "glue": "GLUE.SDM450.3.0.1-00014-NOOP_TEST-1", 
+        "modem": "MPSS.TA.2.3.c2-00067-8953_GEN_PACK-1", 
+        "rpm": "RPM.BF.2.4.c3-00001-M8953AAAAANAZR-1", 
+        "tz": "TZ.BF.4.0.5.c4-00022-M8937AAAAANAZT-1", 
+        "video": "VIDEO.VE.4.4-00020-PROD-1", 
+        "wapi": "WLAN.ADDON_PR.3.0-00005-M8953BAAAANAZW-1", 
+        "wcnss": "CNSS.PR.4.0.3-00090-M8953BAAAANAZW-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "SDM450.LA.3.0.1.c2-00018-STD.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2020-07-02 19:53:29"
+    }, 
+    "Version": "1.0"
+}
